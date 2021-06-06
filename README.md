@@ -2,6 +2,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). The UI framework is [MaterialUI](https://material-ui.com/).
 This is hosted at [https://erines.co/wetransfer-erinesco/](https://erines.co/wetransfer-erinesco/).
 
+I split out the spinner and the buttons into their own components so they could be reused across various implementations of the spinner (examples folder).
+
 ## Setup / Run instructions
 Assumptions: some base web app setup on your computer
 
