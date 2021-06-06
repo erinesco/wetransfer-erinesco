@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/wetransfer-erinesco/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/wetransfer-erinesco/static/js/main.24d3032f.chunk.js",
+    "main.js.map": "/wetransfer-erinesco/static/js/main.24d3032f.chunk.js.map",
+    "runtime-main.js": "/wetransfer-erinesco/static/js/runtime-main.1b7c6104.js",
+    "runtime-main.js.map": "/wetransfer-erinesco/static/js/runtime-main.1b7c6104.js.map",
+    "static/js/2.84a60a8d.chunk.js": "/wetransfer-erinesco/static/js/2.84a60a8d.chunk.js",
+    "static/js/2.84a60a8d.chunk.js.map": "/wetransfer-erinesco/static/js/2.84a60a8d.chunk.js.map",
+    "index.html": "/wetransfer-erinesco/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/wetransfer-erinesco/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.84a60a8d.chunk.js.LICENSE.txt": "/wetransfer-erinesco/static/js/2.84a60a8d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1b7c6104.js",
+    "static/js/2.84a60a8d.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.24d3032f.chunk.js"
+  ]
+}
