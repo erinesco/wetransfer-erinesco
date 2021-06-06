@@ -1,5 +1,6 @@
 # WeTransfer - Erin Esco
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). The UI framework is [MaterialUI](https://material-ui.com/).
+This is hosted at [https://erines.co/wetransfer-erinesco/](https://erines.co/wetransfer-erinesco/).
 
 ## Setup / Run instructions
 Assumptions: some base web app setup on your computer
